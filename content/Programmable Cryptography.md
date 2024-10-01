@@ -1,0 +1,1 @@
+Read more in [[heuristics of programmable cryptography]]

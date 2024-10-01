@@ -9,12 +9,15 @@ My name is Andy. The ideas here represent my understanding of myself and the wor
 
 🧠 Top of Mind
 These are the things I’m currently thinking about:
-- Cryptography and it's role in designing a better world
-- Tech Trends and how they affect longer term
-- 
+- [[Cryptography]] and it's role in designing a better world
+- [[Long Term Trends]] and how they affect society 
+- [[Philosophy]] trends and what 
+- [[Cultural Movements]]
+
 
 
 
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
 
 See the [[heuristics of programmable cryptography]] for informaiton on how to think about them
