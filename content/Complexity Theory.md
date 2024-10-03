@@ -1,0 +1,1 @@
+#todo Read and organize things from https://complexityzoo.net/Petting_Zoo
