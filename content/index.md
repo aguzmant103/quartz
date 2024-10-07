@@ -5,10 +5,10 @@ The ideas here represent my understanding of myself and the world. It is constan
 ### 👋 Who am I?
 My name is Andy. 
 - Father, husband, brother, son. 
-- Product Manager in applied cryptography
+- Product Manager. Learning cryptography
 - Mechatronics engineer & software engineer
 - Catholic
-- Black belt Karateka & amateur weight lifter, amateur carpenter
+- Karate black belt & amateur weight lifter, amateur carpenter
 - wants to become: amateur philosopher/theologian and professional boardgames player
 
 
