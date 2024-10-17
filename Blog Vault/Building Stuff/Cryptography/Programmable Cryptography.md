@@ -11,6 +11,33 @@ What's programmable cryptography?  [1](https://0xparc.org/blog/programmable-cryp
 - [[Private Shared States]]
 ![[Pasted image 20241001164919.png]]
 
+``` mermaid
+graph TD
+    A[Indistinguishability Obfuscation] --> B[zkSNARKs]
+    A --> C[Collaborative zkSNARKs]
+    A --> D[FHE]
+    A --> E[Witness Encryption]
+    
+    B --> F[NIZK]
+    F --> G[Digital Signatures]
+    
+    F --> H[General-purpose MPC]
+    H --> I[Special-purpose MPC]
+    
+    C --> H
+    D --> C
+    
+    D --> J[Threshold Encryption]
+    D --> K[Encryption]
+    J --> L[tOPRF]
+    
+    E --> M[IBE]
+    E --> N[Timelock Encryption]
+    N --> K
+    M --> K
+
+```
+
 ## How to program programmable cryptography
 #todo DSLs, Libraries and VMs
 

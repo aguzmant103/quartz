@@ -2,7 +2,7 @@ A variation of sharing economy (Uber, Airbnb, etc)
 
 Two catalyst:
 - efficiency gains of economies of scale are greater
-- efficiency gains of unlocking spare capacity. B
+- efficiency gains of unlocking spare capacity
 
 One new catalyst:
 - One interesting angle is tapping into previously "invisible resources"
