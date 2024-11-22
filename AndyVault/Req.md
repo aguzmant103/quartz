@@ -1,0 +1,2 @@
+- Algo que pueda estar en la cama y en la habitacion (o que se pueda mover o dos cosas)
+- Algo que pueda resistir mas de 7-What is the average weight per month in 80 with a girl starting for three months old until five?

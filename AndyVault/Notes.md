@@ -1,0 +1,16 @@
+The case for protocol specs:
+- what a protocol does, public good, part of lifecycle
+- tcp/io, https/https, tls/ssl, etc. eips, bips, ietf, vac rfcs, pse rfcs
+- good: tls 1.3, eth networking, rln v1 (simple)
+- failure modes:
+	- missing specs: only docs
+	- not reliable (out of date)
+	- ambigious , underspercified
+- why specs
+	- celar requirements for protocol and security guarantess
+	- serves as ref and communication tool
+	- supportd drobust development and eveolution
+	- **not something you outsource**
+	- .
+- what is is
+	- the most valuable asset of a protocol
